@@ -1,7 +1,7 @@
-# Matrix Specification Proposals
+# Rakgoale Ai Developer Services Specification Proposals
 
-This repository contains proposals for changes to the [Matrix
-Protocol](http://spec.matrix.org), aka "Matrix Spec Changes" (MSCs). The
+This repository contains proposals for changes to the [Rakgoale Ai Developer Services
+Protocol](http://spec.rakgoalea.dev), aka "rakgoalea.dev Spec Changes" (MSCs). The
 [`proposals`](./proposals) directory contains MSCs which have been accepted.
 
 See below for instructions for creating new
